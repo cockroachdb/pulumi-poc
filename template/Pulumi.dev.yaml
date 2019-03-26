@@ -1,0 +1,3 @@
+config:
+  gcp:project: playing-with-pulumi
+  poc:whitelist: 99.108.106.120/32
